@@ -204,7 +204,7 @@ Data is uploaded to **ThingSpeak** via HTTP GET requests through the ESP-01 Wi-F
 
 The 16×2 LCD shows different screens depending on system state:
 
-<img src="images/lcd_display_states.png" alt="LCD Display States" width="700"/>
+![image alt](https://github.com/mahendra-23k/Cold-Guard-IoT-Storage-System/blob/main/LCD%20Display%20States.jpeg?raw=true)
 
 ---
 
