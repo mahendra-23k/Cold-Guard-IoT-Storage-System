@@ -179,7 +179,7 @@ The LPC2148 clock tree is configured in `Startup.s` and `main.c`:
 
 The firmware follows a **modular driver architecture** — each peripheral has its own `.c`/`.h` pair with a clean public API:
 
-<img src="images/software_architecture.png" alt="Software Architecture" width="700"/>
+![image alt](https://github.com/mahendra-23k/Cold-Guard-IoT-Storage-System/blob/main/Software%20Architechture.png?raw=true)
 
 ### Main Loop State Machine
 
