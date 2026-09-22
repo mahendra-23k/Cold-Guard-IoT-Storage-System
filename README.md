@@ -89,7 +89,7 @@ Built on the **NXP LPC2148 ARM7TDMI-S** microcontroller, ColdGuard provides:
 
 ### 2. LCD Display Output
 
-<img src="images/display.png" alt="LCD Display Output" width="700"/>
+![image alt](https://github.com/mahendra-23k/Cold-Guard-IoT-Storage-System/blob/main/LCD%20Display%20output.jpeg?raw=true)
 
 ---
 
