@@ -231,7 +231,7 @@ All user-adjustable settings are defined in [`config.h`](config.h):
 
 The configuration menu is hardware-gated behind an external interrupt (EINT3) and software-gated behind a 4-digit PIN:
 
-<img src="images/menu_password_system.png" alt="Menu & Password System" width="700"/>
+![image alt](https://github.com/mahendra-23k/Cold-Guard-IoT-Storage-System/blob/main/Menu%20&%20Password%20System.jpeg?raw=true)
 
 ### Menu Options
 
