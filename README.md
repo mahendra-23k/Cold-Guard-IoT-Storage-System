@@ -161,7 +161,7 @@ The LPC2148 clock tree is configured in `Startup.s` and `main.c`:
 
 ## 🗺️ Circuit Block Diagram
 
-<img src="images/circuit_block_diagram.png" alt="Circuit Block Diagram" width="700"/>
+![image alt](https://github.com/mahendra-23k/Cold-Guard-IoT-Storage-System/blob/main/Circuit%20block%20Diagram.png?raw=true)
 
 ### Interrupt Map
 
