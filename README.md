@@ -183,7 +183,7 @@ The firmware follows a **modular driver architecture** — each peripheral has i
 
 ### Main Loop State Machine
 
-<img src="images/main_loop_state_machine.png" alt="Main Loop State Machine" width="700"/>
+![image alt](https://github.com/mahendra-23k/Cold-Guard-IoT-Storage-System/blob/main/Main%20Loop%20State%20Machine.jpeg?raw=true)
 
 ---
 
