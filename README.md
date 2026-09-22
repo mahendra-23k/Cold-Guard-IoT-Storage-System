@@ -83,7 +83,7 @@ Built on the **NXP LPC2148 ARM7TDMI-S** microcontroller, ColdGuard provides:
 
 ### 1. Full Hardware Board
 
-<img src="https://github.com/mahendra-23k/Cold-Guard-IoT-Storage-System/blob/main/Mahendra%20output%20lcd.jpeg.jpeg?raw=true
+![image alt](https://github.com/mahendra-23k/Cold-Guard-IoT-Storage-System/blob/main/Mahendra%20output%20lcd.jpeg.jpeg?raw=true)
 
 ---
 
