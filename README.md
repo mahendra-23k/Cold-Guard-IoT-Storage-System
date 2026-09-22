@@ -129,7 +129,6 @@ The LPC2148 clock tree is configured in `Startup.s` and `main.c`:
 
 ![image alt](https://github.com/mahendra-23k/Cold-Guard-IoT-Storage-System/blob/main/System%20Clock%20Configuration.png?raw=true)
 
-The LPC2148 clock tree is configured in `Startup.s` and `main.c`:
 
 ---
 
